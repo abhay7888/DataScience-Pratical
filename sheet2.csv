@@ -1,0 +1,287 @@
+Stud_id,Stud_Name,Contact_No,Email ID,Company_Name ,Position,Package,Job_Location,Year ,Passing Year,Percentage
+1.0,Aarav Sharma,+91 7001234567,aarav.sharma@example.com,Wipro ,Trainee - Computer Application,"1,80,000 /- annum",,2018-19,2020.0,75.0
+2.0,Vivaan Patel,+91 8002345678,vivaan.patel@example.com,Wipro ,Trainee - Computer Application,"1,80,000 /- annum",,2018-19,2021.0,82.0
+3.0,Aditya Gupta,+91 9003456789,aditya.gupta@example.com,Wipro ,Trainee - Computer Application,"1,80,000 /- annum",,2018-19,2022.0,68.0
+4.0,Vihaan Singh,+91 7404567890,vihaan.singh@example.com,INFOSYS,Trainee Executive,"1,54,000/  annum",,2018-19,2023.0,91.0
+5.0,Arjun Mehta,+91 7505678901,arjun.mehta@example.com,INFOSYS,Trainee Executive,"1,54,000/  annum",,2018-19,2024.0,85.0
+6.0,Aryan Verma,+91 7606789012,aryan.verma@example.com,INFOSYS,Trainee Executive,"1,54,000/  annum",,2018-19,2020.0,77.0
+7.0,Sai Rao,+91 7807890123,sai.rao@example.com,INFOSYS,Trainee Executive,"1,54,000/  annum",,2018-19,2021.0,73.0
+8.0,Reyansh Reddy,+91 7908901234,reyansh.reddy@example.com,INFOSYS,Trainee Executive,"1,54,000/  annum",,2018-19,2022.0,88.0
+9.0,Dhruv Nair,+91 8109012345,dhruv.nair@example.com,INFOSYS,Trainee Executive,"1,54,000/  annum",,2018-19,2023.0,80.0
+10.0,Krish Malhotra,+91 8200123456,krish.malhotra@example.com,INFOSYS,Trainee Executive,"1,54,000/  annum",,2018-19,2024.0,72.0
+11.0,Ananya Iyer,+91 8301234567,ananya.iyer@example.com,INFOSYS,Trainee Executive,"1,54,000/  annum",,2018-19,2019.0,66.0
+12.0,Aadhya Shah,+91 8402345678,aadhya.shah@example.com,MPHASIS,Trainee Transaction Processing Officer ,"1,52,000 / annum",,2018-19,2020.0,89.0
+13.0,Saanvi Joshi,+91 8503456789,saanvi.joshi@example.com,MPHASIS,Trainee Transaction Processing Officer ,"1,52,000 / annum",,2018-19,2021.0,74.0
+14.0,Kavya Rao,+91 8604567890,kavya.rao@example.com,MPHASIS,Trainee Transaction Processing Officer ,"1,52,000 / annum",,2018-19,2022.0,90.0
+15.0,Riya Jain,+91 8705678901,riya.jain@example.com,MPHASIS,Trainee Transaction Processing Officer ,"1,52,000 / annum",,2018-19,2023.0,81.0
+16.0,Tanvi Agarwal,+91 8806789012,tanvi.agarwal@example.com,MPHASIS,Trainee Transaction Processing Officer ,"1,52,000 / annum",,2018-19,2024.0,70.0
+17.0,Neha Kapoor,+91 8907890123,neha.kapoor@example.com,MPHASIS,Trainee Transaction Processing Officer ,"1,52,000 / annum",,2018-19,2018.0,67.0
+18.0,Aisha Khan,+91 9008901234,aisha.khan@example.com,MPHASIS,Trainee Transaction Processing Officer ,"1,52,000 / annum",,2018-19,2019.0,76.0
+19.0,Sneha Choudhary,+91 9109012345,sneha.choudhary@example.com,MPHASIS,Trainee Transaction Processing Officer ,"1,52,000 / annum",,2018-19,2020.0,78.0
+20.0,Pooja Bhatt,+91 9200123456,pooja.bhatt@example.com,MPHASIS,Trainee Transaction Processing Officer ,"1,52,000 / annum",,2018-19,2021.0,83.0
+21.0,Priya Sethi,+91 9301234567,priya.sethi@example.com,MPHASIS,Trainee Transaction Processing Officer ,"1,52,000 / annum",,2018-19,2022.0,84.0
+22.0,Radhika Verma,+91 9402345678,radhika.verma@example.com,MPHASIS,Trainee Transaction Processing Officer ,"1,52,000 / annum",,2018-19,2023.0,69.0
+23.0,Nidhi Mishra,+91 9503456789,nidhi.mishra@example.com,MPHASIS,Trainee Transaction Processing Officer ,"1,52,000 / annum",,2018-19,2024.0,87.0
+24.0,Sanya Thakur,+91 9604567890,sanya.thakur@example.com,MPHASIS,Trainee Transaction Processing Officer ,"1,52,000 / annum",,2018-19,2019.0,92.0
+25.0,Anika Roy,+91 9705678901,anika.roy@example.com,MPHASIS,Trainee Transaction Processing Officer ,"1,52,000 / annum",,2018-19,2020.0,53.0
+26.0,Meera Das,+91 9806789012,meera.das@example.com,MPHASIS,Trainee Transaction Processing Officer ,"1,52,000 / annum",,2018-19,2021.0,62.0
+27.0,Kavita Sen,+91 9907890123,kavita.sen@example.com,MPHASIS,Trainee Transaction Processing Officer ,"1,52,000 / annum",,2018-19,2022.0,88.0
+28.0,Reema Dutta,+91 8008901234,reema.dutta@example.com,MPHASIS,Trainee Transaction Processing Officer ,"1,52,000 / annum",,2018-19,2023.0,82.0
+29.0,Diya Saxena,+91 8119012345,diya.saxena@example.com,T C S,Graduate Trainee,"1,93,158 /- annum",,2018-19,2024.0,71.0
+30.0,Ishita Verma,+91 8220123456,ishita.verma@example.com,T C S,Graduate Trainee,"1,93,158 /- annum",,2018-19,2020.0,79.0
+31.0,Riya Mehta,+91 8331234567,riya.mehta@example.com,T C S,Graduate Trainee,"1,93,158 /- annum",,2018-19,2021.0,64.0
+32.0,Kriti Nair,+91 8442345678,kriti.nair@example.com,T C S,Graduate Trainee,"1,93,158 /- annum",,2018-19,2022.0,60.0
+33.0,Aanya Sood,+91 8553456789,aanya.sood@example.com,T C S,Graduate Trainee,"1,93,158 /- annum",,2018-19,2023.0,66.0
+34.0,Manya Bansal,+91 8664567890,manya.bansal@example.com,CHEEG INC,Subject Matter Expert," Avg. 1,,92,000/-annum",,2018-19,2024.0,80.0
+35.0,Sanya Malhotra,+91 8775678901,sanya.malhotra@example.com,CHEEG INC,Subject Matter Expert,"   Avg. 1,,92,000/-annum",,2018-19,2019.0,55.0
+36.0,Shreya Gupta,+91 8886789012,shreya.gupta@example.com,CHEEG INC,Subject Matter Expert,"  Avg. 1,,92,000/-annum",,2018-19,2020.0,57.0
+37.0,Tara Sharma,+91 8997890123,tara.sharma@example.com,CHEEG INC,Subject Matter Expert," Avg. 1,,92,000/-annum",,2018-19,2021.0,65.0
+38.0,Aditi Patil,+91 9008901234,aditi.patil@example.com,CHEEG INC,Subject Matter Expert,"Avg. 1,,92,000/-annum",,2018-19,2022.0,75.0
+39.0,Ria Desai,+91 9119012345,ria.desai@example.com,CHEEG INC,Subject Matter Expert," Avg. 1,,92,000/-annum",,2018-19,2023.0,86.0
+40.0,Lavanya Rao,+91 9220123456,lavanya.rao@example.com,CHEEG INC,Subject Matter Expert," Avg. 1,,92,000/-annum",,2018-19,2024.0,52.0
+41.0,Neelam Singh,+91 9331234567,neelam.singh@example.com,ORCHID INTERNATIONAL SCHOOL,Primary Teacher ,"1,80,000/-annum",,2018-19,2018.0,68.0
+42.0,Charvi Kapoor,+91 9442345678,charvi.kapoor@example.com,ORCHID INTERNATIONAL SCHOOL,Primary Teacher ,"1,80,000/-annum",,2018-19,2019.0,90.0
+43.0,Urvi Reddy,+91 9553456789,urvi.reddy@example.com,ATOS SYNTEL,Associate Consultant (AC 1),"2,00,000/- annum",,2018-19,2020.0,72.0
+44.0,Anushka Joshi,+91 9664567890,anushka.joshi@example.com,SYNTEL,Associate Consultant (AC 1),"2,00,000/- annum",,2018-19,2021.0,81.0
+45.0,Simran Bhatia,+91 9775678901,simran.bhatia@example.com,FORCE,Marketing Trainee,"90,000/- annum  And Incentives",,2018-19,2022.0,73.0
+46.0,Rhea Jain,+91 9886789012,rhea.jain@example.com,GeBBS Health Care Solutions,AR Associate - Trainee,"1,53,252 / annum",,2018-19,2023.0,88.0
+47.0,Sneha Agarwal,+91 9997890123,sneha.agarwal@example.com,GeBBS Health Care Solutions,AR Associate - Trainee,"1,53,252 / annum",,2018-19,2024.0,77.0
+48.0,Payal Choudhary,+91 7008901234,payal.choudhary@example.com,GeBBS Health Care Solutions,AR Associate - Trainee,"1,53,252 / annum",,2018-19,2017.0,69.0
+49.0,Swara Sharma,+91 7119012345,swara.sharma@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,2019-20,2018.0,84.0
+50.0,Tanishq Verma,+91 7220123456,tanishq.verma@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,2019-20,2019.0,70.0
+51.0,Om Sharma,+91 7331234567,om.sharma@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,,2020.0,93.0
+52.0,Arnav Mehta,+91 7442345678,arnav.mehta@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,2019-20,2021.0,82.0
+53.0,Karan Singh,+91 7553456789,karan.singh@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,2019-20,2022.0,61.0
+54.0,Yash Patel,+91 7664567890,yash.patel@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,,2023.0,78.0
+55.0,Ayaan Verma,+91 7775678901,ayaan.verma@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,2019-20,2024.0,74.0
+56.0,Harsh Agarwal,+91 7886789012,harsh.agarwal@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,2019-20,2018.0,66.0
+57.0,Rishabh Nair,+91 7997890123,rishabh.nair@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,,2019.0,65.0
+58.0,Rohan Soni,+91 8008901234,rohan.soni@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,2019-20,2020.0,88.0
+59.0,Arjun Bansal,+91 8119012345,arjun.bansal@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,2019-20,2021.0,80.0
+60.0,Manan Gupta,+91 8220123456,manan.gupta@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,,2022.0,58.0
+61.0,Aniket Shah,+91 8331234567,aniket.shah@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,2019-20,2023.0,72.0
+62.0,Ritesh Sharma,+91 8442345678,ritesh.sharma@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,2019-20,2024.0,71.0
+63.0,Abhishek Jain,+91 8553456789,abhishek.jain@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,,2019.0,54.0
+64.0,Nitin Rao,+91 8664567890,nitin.rao@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,2019-20,2020.0,89.0
+65.0,Shivam Singh,+91 8775678901,shivam.singh@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,2019-20,2021.0,79.0
+66.0,Akash Sethi,+91 8886789012,akash.sethi@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,,2022.0,82.0
+67.0,Tushar Mehta,+91 8997890123,tushar.mehta@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,2019-20,2023.0,76.0
+68.0,Sahil Kapoor,+91 7008901234,sahil.kapoor@example.com,MPHASIS PVT LTD,Trainee Transaction Processing Officer,"1,52,000/- anm",PUNE,2019-20,2024.0,64.0
+69.0,Sameer Reddy,+91 7119012345,sameer.reddy@example.com,Infosys BPM ,BPM Process,Not Mentioned on Offer Letter,PUNE,,2018.0,85.0
+70.0,Aman Thakur,+91 7220123456,aman.thakur@example.com,Infosys BPM ,BPM Process,Not Mentioned on Offer Letter,PUNE,2019-20,2019.0,83.0
+71.0,Varun Joshi,+91 7331234567,varun.joshi@example.com,Infosys BPM ,BPM Process,Not Mentioned on Offer Letter,PUNE,2019-20,2020.0,60.0
+72.0,Deepak Iyer,+91 7442345678,deepak.iyer@example.com,Infosys BPM ,BPM Process,Not Mentioned on Offer Letter,PUNE,,2021.0,78.0
+73.0,Rahul Verma,+91 7553456789,rahul.verma@example.com,Infosys Technical ,Operation Executive ,"2,20,000/-anm",PUNE,2019-20,2022.0,88.0
+74.0,Ayush Gupta,+91 7664567890,ayush.gupta@example.com,Infosys Technical ,Operation Executive ,"2,20,000/-anm",PUNE,2019-20,2023.0,90.0
+75.0,Vishal Patel,+91 7775678901,vishal.patel@example.com,Infosys Technical ,Operation Executive ,"2,20,000/-anm",PUNE,,2024.0,67.0
+76.0,Vikas Rao,+91 7886789012,vikas.rao@example.com,Infosys Technical ,Operation Executive ,"2,20,000/-anm",PUNE,2019-20,2017.0,74.0
+77.0,Girish Bhatia,+91 7997890123,girish.bhatia@example.com,Infosys Technical ,Operation Executive ,"2,20,000/-anm",PUNE,2019-20,2018.0,68.0
+78.0,Nikhil Mehta,+91 8008901234,nikhil.mehta@example.com,Infosys Technical ,Operation Executive ,"2,20,000/-anm",PUNE,,2019.0,71.0
+79.0,Kunal Jain,+91 8119012345,kunal.jain@example.com,Capgemini,,,,2019-20,2020.0,92.0
+80.0,Ashish Soni,+91 8220123456,ashish.soni@example.com,Capgemini,,,,2019-20,2021.0,55.0
+81.0,Mohit Malhotra,+91 8331234567,mohit.malhotra@example.com,TCS Technical,,,,,2022.0,66.0
+82.0,Raghav Sharma,+91 8442345678,raghav.sharma@example.com,TCS Technical,,,,2019-20,2023.0,83.0
+83.0,Jatin Shah,+91 8553456789,jatin.shah@example.com,TCS Technical,,,,2019-20,2024.0,79.0
+84.0,Gaurav Agarwal,+91 8664567890,gaurav.agarwal@example.com,TCS Technical,,,,,2016.0,61.0
+85.0,Arnav Nair,+91 8775678901,arnav.nair@example.com,ATOS Syntel,Operation Executive ,"2,20,000/-anm",PUNE,2019-20,2017.0,64.0
+86.0,Mohan Yadav,+91 8886789012,mohan.yadav@example.com,ATOS Syntel,,,,2019-20,2018.0,72.0
+87.0,Pranav Mehta,+91 8997890123,pranav.mehta@example.com,WIPRO,,,,,2019.0,75.0
+88.0,Rishi Sharma,+91 7008901234,rishi.sharma@example.com,WIPRO,,,,,2020.0,87.0
+89.0,Anirudh Singh,+91 7119012345,anirudh.singh@example.com,Infosys Technical,Operation Executive ,"2,20,000/-peranum",,2020-21,2021.0,81.0
+90.0,Anmol Bansal,+91 7220123456,anmol.bansal@example.com,Infosys Technical,Operation Executive ,"2,20,000/-peranum",,2020-21,2022.0,82.0
+91.0,Gaurav Joshi,+91 7331234567,gaurav.joshi@example.com,Wipro Technical,Scholar Trainee,"2,76,000/- peranum",,2020-21,2023.0,69.0
+92.0,Karan Bhat,+91 7442345678,karan.bhat@example.com,Wipro Technical,Scholar Trainee,"2,76,000/- peranum",,2020-21,2024.0,88.0
+93.0,Amar Yadav,+91 7553456789,amar.yadav@example.com,Wipro Technical,Scholar Trainee,"2,76,000/- peranum",,2020-21,2017.0,90.0
+94.0,Dhruv Kapoor,+91 7664567890,dhruv.kapoor@example.com,Tata Consultancy Services ,Graduate Trainee,"1,90,926/- per annum",,2020-21,2018.0,76.0
+95.0,Himanshu Verma,+91 7775678901,himanshu.verma@example.com,Tata Consultancy Services ,Graduate Trainee,"1,90,926/- per annum",,2020-21,2019.0,59.0
+96.0,Manish Reddy,+91 7886789012,manish.reddy@example.com,Tata Consultancy Services ,Graduate Trainee,"1,90,926/- per annum",,2020-21,2020.0,73.0
+97.0,Navin Gupta,+91 7997890123,navin.gupta@example.com,Wipro Technical,Scholar Trainee,"2,76,000/- peranum",,2020-21,2021.0,62.0
+98.0,Ritesh Choudhary,+91 8008901234,ritesh.choudhary@example.com,Tata Consultancy Services ,Graduate Trainee,"1,90,926/- per annum",,2020-21,2022.0,68.0
+99.0,Uday Singh,+91 8119012345,uday.singh@example.com,Infosys BPM,Process Executive,"2,00000/-annum",,2020-21,2023.0,87.0
+100.0,Saurabh Agarwal,+91 8220123456,saurabh.agarwal@example.com,Tata Consultancy Services ,Ignite Trainee,"1,90,926/- per annum",,2020-21,2024.0,54.0
+101.0,Pavan Iyer,+91 8331234567,pavan.iyer@example.com,Wipro Technical,Scholar Trainee,"2,76,000/- peranum",,2020-21,2019.0,78.0
+102.0,Saurav Patil,+91 8442345678,saurav.patil@example.com,Capgemini,Associate ,"2.50,000/- peranum",,2020-21,2020.0,84.0
+103.0,Ravi Nair,+91 8553456789,ravi.nair@example.com,Conizant,Graduate Trainee,"2,51999/- peranum",,2020-21,2021.0,75.0
+104.0,Tarun Verma,+91 8664567890,tarun.verma@example.com,Wipro Technical,Scholar Trainee,"2,76,000/- peranum",,2020-21,2022.0,80.0
+105.0,Devendra Kumar,+91 8775678901,devendra.kumar@example.com,Orient Cements C.K.Birla Group,Sales Trainee,"3,20,000/- anum",,2020-21,2023.0,71.0
+106.0,Chandan Singh,+91 8886789012,chandan.singh@example.com,Orient Cements C.K.Birla Group,Sales Trainee,"3,20,000/- anum",,2020-21,2024.0,86.0
+107.0,Anil Bansal,+91 8997890123,anil.bansal@example.com,Orient Cements C.K.Birla Group,Sales Trainee,"3,20,000/- anum",,2020-21,2018.0,66.0
+108.0,Yashasvi Rao,+91 7008901234,yashasvi.rao@example.com,Orient Cements C.K.Birla Group,Sales Trainee,"3,20,000/- anum",,2020-21,2019.0,90.0
+109.0,Shubham Jain,+91 7119012345,shubham.jain@example.com,Chegg,,,,2020-21,2020.0,88.0
+110.0,Harshit Sharma,+91 7220123456,harshit.sharma@example.com,Wipro Technical,Scholar Trainee,"2,76,000/- peranum",,2020-21,2021.0,63.0
+111.0,Tarun Yadav,+91 7331234567,tarun.yadav@example.com,Infosys BPM,Process Executive,"2,00000/-annum",,2020-21,2022.0,77.0
+112.0,Pritam Verma,+91 7442345678,pritish.verma@example.com,Wipro Technical,Scholar Trainee,"2,76,000/- peranum",,2020-21,2023.0,82.0
+113.0,Vikrant Joshi,+91 7553456789,vikrant.joshi@example.com,Tata Consultancy Services ,Graduate Trainee,"1,90,926/- per annum",,2020-21,2024.0,58.0
+114.0,Aman Sharma,+91 7664567890,aman.sharma@example.com,Tata Consultancy Services ,Graduate Trainee,"1,90,926/- per annum",,2020-21,2017.0,85.0
+115.0,Saket Singh,+91 7775678901,saket.singh@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2018.0,81.0
+116.0,Rohan Choudhary,+91 7886789012,rohan.choudhary@example.com,Infosys-BPM,Associate ,"1,80,000/- Per annum",,2021-22,2019.0,69.0
+117.0,Jagdish Patel,+91 7997890123,jagdish.patel@example.com,Infosys-BPM,Associate ,"1,80,000/- Per annum",,2021-22,2020.0,73.0
+118.0,Pawan Yadav,+91 8008901234,pawan.yadav@example.com,TCS,Graduate Trainee,"1,90,926/- per annum",,2021-22,2021.0,89.0
+119.0,Dev Singh,+91 8119012345,dev.singh@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2022.0,90.0
+120.0,Raghav Kumar,+91 8220123456,raghav.kumar@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2023.0,65.0
+121.0,Neeraj Gupta,+91 8331234567,neeraj.gupta@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2024.0,88.0
+122.0,Kunal Nair,+91 8442345678,kunal.nair@example.com,TCS,Graduate Trainee,"1,90,926/- per annum",,2021-22,2016.0,62.0
+123.0,Ankit Verma,+91 8553456789,ankit.verma@example.com,Larsen and toubro Infotech-LTI,Associate Trainee,"3,64,000/- Per annum",,2021-22,2017.0,76.0
+124.0,Adarsh Sethi,+91 8664567890,adarsh.sethi@example.com,Hexaware,Trainee,3 Lac per annum,,2021-22,2018.0,54.0
+125.0,Mohit Gupta,+91 8775678901,mohit.gupta@example.com,Infosys-BPM,Associate ,"1,80,000/- Per annum",,2021-22,2019.0,70.0
+126.0,Hitesh Kumar,+91 8886789012,hitesh.kumar@example.com,Wipro , Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2020.0,82.0
+127.0,Lakshay Mehta,+91 8997890123,lakshay.mehta@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2021.0,74.0
+128.0,Aakarsh Singh,+91 7008901234,aakarsh.singh@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2022.0,69.0
+129.0,Aryan Rao,+91 7119012345,aryan.rao@example.com,Infosys,System Engineer,"2,20,2000/- Pwer annum",,2021-22,2023.0,91.0
+130.0,Nishant Sharma,+91 7220123456,nishant.sharma@example.com,TCS,Graduate Trainee,"1,90,926/- per annum",,2021-22,2024.0,87.0
+131.0,Rahul Yadav,+91 7331234567,rahul.yadav@example.com,Hexaware,Trainee,3 Lac per annum,,2021-22,2015.0,63.0
+132.0,Akshay Patel,+91 7442345678,akshay.patel@example.com,Infosys,System Engineer,"2,20,2000/- Pwer annum",,2021-22,2016.0,77.0
+133.0,Deepak Bansal,+91 7553456789,deepak.bansal@example.com,Atos Syntel,Associate Consultant,"2,25,000/- Per annum",,2021-22,2017.0,84.0
+134.0,Sandeep Verma,+91 7664567890,sandeep.verma@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2018.0,86.0
+135.0,Shailesh Nair,+91 7775678901,shailesh.nair@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2019.0,59.0
+136.0,Aman Joshi,+91 7886789012,aman.joshi@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2020.0,72.0
+137.0,Shankar Reddy,+91 7997890123,shankar.reddy@example.com,Larsen and toubro Infotech-LTI,Associate Trainee,"3,64,000/- Per annum",,2021-22,2021.0,66.0
+138.0,Anil Agarwal,+91 8008901234,anil.agarwal@example.com,Infosys,System Engineer,"2,20,2000/- Pwer annum",,2021-22,2022.0,85.0
+139.0,Vicky Kumar,+91 8119012345,vicky.kumar@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2023.0,75.0
+140.0,Shubham Singh,+91 8220123456,shubham.singh@example.com,Hexaware,Trainee,3 Lac per annum,,2021-22,2024.0,91.0
+141.0,Kamal Sharma,+91 8331234567,kamal.sharma@example.com,Wipro , Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2016.0,81.0
+142.0,Rajesh Reddy,+91 8442345678,rajesh.reddy@example.com,TCS ,Graduate Trainee,"1,90,926/- per annum",,2021-22,2017.0,79.0
+143.0,Praveen Yadav,+91 8553456789,praveen.yadav@example.com,Mphasis,Trainee Software Engineer,"2,50,000/- Per annum",,2021-22,2018.0,67.0
+144.0,Lakshman Joshi,+91 8664567890,lakshman.joshi@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2019.0,88.0
+145.0,Siddharth Sharma,+91 8775678901,siddharth.sharma@example.com,Accenture,System and Application Services Associate,"3,33,500/- Per annum",,2021-22,2020.0,90.0
+146.0,Naresh Patel,+91 8886789012,naresh.patel@example.com,Mphasis,Trainee Software Engineer,"2,50,000/- Per annum",,2021-22,2021.0,74.0
+147.0,Bharat Nair,+91 8997890123,bharat.nair@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2022.0,68.0
+148.0,Shivendra Singh,+91 7008901234,shivendra.singh@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2023.0,71.0
+149.0,Mohit Kapoor,+91 7119012345,mohit.kapoor@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2024.0,85.0
+150.0,Ajay Gupta,+91 7220123456,ajay.gupta@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2019.0,56.0
+151.0,Raju Malhotra,+91 7331234567,raju.malhotra@example.com,TCS,Graduate Trainee,"1,90,926/- per annum",,2021-22,2020.0,64.0
+152.0,Ganesh Singh,+91 7442345678,ganesh.singh@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2021.0,88.0
+153.0,Vishnu Agarwal,+91 7553456789,vishnu.agarwal@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2022.0,82.0
+154.0,Amar Patel,+91 7664567890,amar.patel@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2023.0,66.0
+155.0,Dinesh Kumar,+91 7775678901,dinesh.kumar@example.com,TCS,Graduate Trainee,"1,90,926/- per annum",,2021-22,2024.0,89.0
+156.0,Parag Sharma,+91 7886789012,parag.sharma@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2018.0,75.0
+157.0,Raju Singh,+91 7997890123,raju.singh@example.com,Entercoms Solution Pvt Ltd ,IT Engineer ,"1,92,000/-",,2021-22,2019.0,80.0
+158.0,Ashok Reddy,+91 8008901234,ashok.reddy@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2020.0,77.0
+159.0,Karthik Rao,+91 8119012345,karthik.rao@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2021.0,73.0
+160.0,Ramesh Iyer,+91 8220123456,ramesh.iyer@example.com,Infosys-BPM,System Engineer,"2,20,2000/- Pwer annum",,2021-22,2022.0,90.0
+161.0,Ranjit Patel,+91 8331234567,ranjit.patel@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2023.0,61.0
+162.0,Arun Verma,+91 8442345678,arun.verma@example.com,TCS,Graduate Trainee,"1,90,926/- per annum",,2021-22,2024.0,72.0
+163.0,Babu Nair,+91 8553456789,babu.nair@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2019.0,88.0
+164.0,Sudhir Kumar,+91 8664567890,sudhir.kumar@example.com,TCS,Graduate Trainee,"1,90,926/- per annum",,2021-22,2020.0,65.0
+165.0,Sanjay Mehta,+91 8775678901,sanjay.mehta@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2021.0,70.0
+166.0,Aashish Sharma,+91 8886789012,aashish.sharma@example.com,Infosys-BPM,Associate ,"1,80,000/- Per annum",,2021-22,2022.0,78.0
+167.0,Dilip Bansal,+91 8997890123,dilip.bansal@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2023.0,81.0
+168.0,Shyam Gupta,+91 7008901234,shyam.gupta@example.com,Atos Syntel,Associate Consultant,"2,25,000/- Per annum",,2021-22,2024.0,76.0
+169.0,Arvind Joshi,+91 7119012345,arvind.joshi@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2017.0,86.0
+170.0,Krishna Yadav,+91 7220123456,krishna.yadav@example.com,Infosys-BPM,Associate ,"1,80,000/- Per annum",,2021-22,2018.0,67.0
+171.0,Vinay Verma,+91 7331234567,vinay.verma@example.com,Mphasis,Trainee Software Engineer,"2,50,000/- Per annum",,2021-22,2019.0,85.0
+172.0,Ramesh Choudhary,+91 7442345678,ramesh.choudhary@example.com,Infosys,System Engineer,"2,20,2000/- Pwer annum",,2021-22,2020.0,54.0
+173.0,Bhavesh Sharma,+91 7553456789,bhavesh.sharma@example.com,Entercoms Solution Pvt Ltd ,IT Engineer ,"1,92,000/-",,2021-22,2021.0,59.0
+174.0,Prashant Singh,+91 7664567890,prashant.singh@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2022.0,74.0
+175.0,Chetan Patel,+91 7775678901,chetan.patel@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2023.0,79.0
+176.0,Rahul Joshi,+91 7886789012,rahul.joshi@example.com,Infosys-BPM,System Engineer,"2,20,2000/- Pwer annum",,2021-22,2024.0,82.0
+177.0,Nitesh Kumar,+91 7997890123,nitesh.kumar@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2016.0,63.0
+178.0,Raghav Yadav,+91 8008901234,raghav.yadav@example.com,Mphasis,Trainee Software Engineer,"2,50,000/- Per annum",,2021-22,2017.0,88.0
+179.0,Anand Iyer,+91 8119012345,anand.iyer@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2018.0,72.0
+180.0,Sanjeev Reddy,+91 8220123456,sanjeev.reddy@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2019.0,71.0
+181.0,Raj Kumar,+91 8331234567,raj.kumar@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2020.0,68.0
+182.0,Vikram Verma,+91 8442345678,vikram.verma@example.com,Zepto,Rider shift incharge,"2,88,000/- Per annum",,2021-22,2021.0,66.0
+183.0,Ranjeet Singh,+91 8553456789,ranjeet.singh@example.com,TCS,Graduate Trainee,"1,90,926/- per annum",,2021-22,2022.0,77.0
+184.0,Sudhir Mehta,+91 8664567890,sudhir.mehta@example.com,Infosys-BPM,Graduate Trainee,"1,90,926/- per annum",,2021-22,2023.0,90.0
+185.0,Jagannath Rao,+91 8775678901,jagannath.rao@example.com,Orient Cement C.K.Birla Group,Sales Trainee,"3,25,000/- per annum",,2021-22,2024.0,78.0
+186.0,Deepak Yadav,+91 8886789012,deepak.yadav@example.com,Orient Cement C.K.Birla Group,Sales Trainee,"3,25,000/- per annum",,2021-22,2015.0,64.0
+187.0,Mohan Gupta,+91 8997890123,mohan.gupta@example.com,Technomech HR Solutions ,Talent Acquisition Trainee ,"96,000/- Per annum",,2021-22,2016.0,69.0
+188.0,Sunil Nair,+91 7008901234,sunil.nair@example.com,Technomech HR Solutions ,Talent Acquisition Trainee ,"96,000/- Per annum",,2021-22,2017.0,81.0
+189.0,Vinod Sharma,+91 7119012345,vinod.sharma@example.com,Technomech HR Solutions ,Talent Acquisition Trainee ,"96,000/- Per annum",,2021-22,2018.0,75.0
+190.0,Mahesh Patel,+91 7220123456,mahesh.patel@example.com,Technomech HR Solutions ,Talent Acquisition Trainee ,"96,000/- Per annum",,2021-22,2019.0,88.0
+191.0,Amit Verma,+91 7331234567,amit.verma@example.com,Technomech HR Solutions ,Talent Acquisition Trainee ,"96,000/- Per annum",,2021-22,2020.0,60.0
+192.0,Rajesh Gupta,+91 7442345678,rajesh.gupta@example.com,Infosys,System Engineer,"2,20,2000/- Pwer annum",,2021-22,2021.0,86.0
+193.0,Pramod Singh,+91 7553456789,pramod.singh@example.com,Wipro, Scholar Trainee,"1,85,856/-Per annum ",,2021-22,2022.0,83.0
+194.0,Santosh Yadav,+91 7664567890,santosh.yadav@example.com,Infosys-BPM,Associate,"1,80,000/- Per annum",,2021-22,2023.0,82.0
+195.0,Ravi Kumar,+91 7775678901,ravi.kumar@example.com,Infosys,System Engineer,"2,20,000/- Per annum",,2021-22,2024.0,58.0
+196.0,Manoj Reddy,+91 7886789012,manoj.reddy@example.com,Atos Syntel,Associate Consultant,"2,25,000/- Per annum",,2021-22,2014.0,72.0
+197.0,Rajat Joshi,+91 7997890123,rajat.joshi@example.com,Infosys-BPM,Associate,"1,80,000/- Per annum",,2021-22,2015.0,87.0
+198.0,Ramesh Iyer,+91 8008901234,ramesh.iyer@example.com,Infosys,System Engineer,"2,20,2000/- Pwer annum",,2021-22,2016.0,78.0
+199.0,Shailendra Kumar,+91 8119012345,shailendra.kumar@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2017.0,90.0
+200.0,Shankar Singh,+91 8220123456,shankar.singh@example.com,Infosys-BPM,Associate ,"1,80,000/- Per annum",,2021-22,2018.0,61.0
+201.0,Ajay Patel,+91 8331234567,ajay.patel@example.com,Infosys-BPM,Associate ,"1,80,000/- Per annum",,2021-22,2019.0,74.0
+202.0,Tejashwi Sharma,+91 8442345678,tejashwi.sharma@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2020.0,70.0
+203.0,Rajeev Gupta,+91 8553456789,rajeev.gupta@example.com,Infosys-BPM,Associate ,"1,80,000/- Per annum",,2021-22,2021.0,65.0
+204.0,Sanjay Verma,+91 8664567890,sanjay.verma@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2022.0,73.0
+205.0,Suraj Singh,+91 8775678901,suraj.singh@example.com,Capgemini,Analyst,"2,75,000/- Per annum",,2021-22,2023.0,89.0
+206.0,Hemant Reddy,+91 8886789012,hemant.reddy@example.com,Atos Syntel,Assiciate Consultant,"2,25,000/- Per annum",,2021-22,2024.0,84.0
+207.0,Subodh Agarwal,+91 8997890123,subodh.agarwal@example.com,Wipro,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2017.0,86.0
+208.0,Rajesh Yadav,+91 7008901234,rajesh.yadav@example.com,Wipro,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2018.0,88.0
+209.0,Vivek Patel,+91 7119012345,vivek.patel@example.com,Wipro,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2019.0,79.0
+210.0,Arjun Iyer,+91 7220123456,arjun.iyer@example.com,Wipro,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2020.0,92.0
+211.0,Ajit Kumar,+91 7331234567,ajit.kumar@example.com,Wipro,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2021.0,64.0
+212.0,Parimal Reddy,+91 7442345678,parimal.reddy@example.com,Wipro,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2022.0,82.0
+213.0,Satish Sharma,+91 7553456789,anirudh.joshi@example.com,Wipro,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2023.0,81.0
+214.0,Rakesh Joshi,+91 7664567890,deepesh.singh@example.com,Wipro,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2024.0,87.0
+215.0,Amitabh Verma,+91 7775678901,gopal.gupta@example.com,Wipro,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2018.0,55.0
+216.0,Jagan Singh,+91 7886789012,suresh.nair@example.com,Wipro,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2019.0,74.0
+217.0,Shyam Reddy,+91 7997890123,satish.patel@example.com,Wipro,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2020.0,63.0
+218.0,Jitendra Nair,+91 8008901234,abhay.verma@example.com,Wipro,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2021.0,88.0
+219.0,Chetan Kumar,+91 8119012345,rakesh.singh@example.com,Wipro,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2022.0,76.0
+220.0,Sandeep Singh,+91 8220123456,anil.bansal@example.com,Wipro,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2023.0,66.0
+221.0,Ajay Mehta,+91 8331234567,pranav.kumar@example.com,Wipro,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2024.0,71.0
+222.0,Anil Verma,+91 8442345678,girish.yadav@example.com,Wipro,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2016.0,75.0
+223.0,Ravi Yadav,+91 8553456789,ashim.singh@example.com,Wipro,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2017.0,90.0
+224.0,Kamlesh Sharma,+91 8664567890,gautam.gupta@example.com,Wipro ,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2018.0,80.0
+225.0,Naresh Patel,+91 8775678901,harsh.patel@example.com,Wipro ,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2019.0,70.0
+226.0,Dinesh Kumar,+91 8886789012,rahul.soni@example.com,Wipro ,Scholar Trainee,"1,85,856/ Per annum",,2022-23,2020.0,79.0
+227.0,Akash Reddy,+91 8997890123,ramesh.kapoor@example.com,EXCELR,Jr. QA Engineer / QA Engineer,"2,80,000/-  To 5,00,000/- Per Annum",,2023-24,2021.0,84.0
+228.0,Mukesh Joshi,+91 7008901234,sanjeev.kumar@example.com,EXCELR,Jr. QA Engineer / QA Engineer,"2,80,000/-  To 5,00,000/- Per Annum",,2023-24,2022.0,68.0
+229.0,Sudhanshu Sharma,+91 7119012345,rajiv.reddy@example.com,EXCELR,Jr. QA Engineer / QA Engineer,"2,80,000/-  To 5,00,000/- Per Annum",,2023-24,2023.0,58.0
+230.0,Ravi Singh,+91 7220123456,pradeep.joshi@example.com,EXCELR,Jr. QA Engineer / QA Engineer,"2,80,000/-  To 5,00,000/- Per Annum",,2023-24,2024.0,88.0
+231.0,Ranjit Yadav,+91 7331234567,sachin.singh@example.com,EXCELR,Jr. QA Engineer / QA Engineer,"2,80,000/-  To 5,00,000/- Per Annum",,2023-24,2017.0,87.0
+232.0,Ajay Gupta,+91 7442345678,samir.verma@example.com,EXCELR,Jr. QA Engineer / QA Engineer,"2,80,000/-  To 5,00,000/- Per Annum",,2023-24,2018.0,91.0
+233.0,Pawan Mehta,+91 7553456789,milind.patil@example.com,EXCELR,Jr. QA Engineer / QA Engineer,"2,80,000/-  To 5,00,000/- Per Annum",,2023-24,2019.0,74.0
+234.0,Dinesh Verma,+91 7664567890,parth.gupta@example.com,EXCELR,Jr. QA Engineer / QA Engineer,"2,80,000/-  To 5,00,000/- Per Annum",,2023-24,2020.0,77.0
+235.0,Amit Sharma,+91 7775678901,rohit.bansal@example.com,EXCELR,Jr. QA Engineer / QA Engineer,"2,80,000/-  To 5,00,000/- Per Annum",,2023-24,2021.0,82.0
+236.0,Jagdish Kumar,+91 7886789012,bhaskar.nair@example.com,EXCELR,Jr. QA Engineer / QA Engineer,"2,80,000/-  To 5,00,000/- Per Annum",,2023-24,2022.0,66.0
+237.0,Nirmal Reddy,+91 7997890123,nitesh.yadav@example.com,Ravikiran Infotech,Digital Marketing - Trainee,"1,80,000/- Per Annum",,2023-24,2023.0,89.0
+238.0,Anil Bansal,+91 8008901234,subhash.patel@example.com,Ravikiran Infotech,Digital Marketing - Trainee,"1,80,000/- Per Annum",,2023-24,2024.0,73.0
+239.0,Ram Kumar,+91 8119012345,kiran.iyer@example.com,Ravikiran Infotech,Digital Marketing - Trainee,"1,80,000/-Per Annum",,2023-24,2016.0,86.0
+240.0,Mohan Joshi,+91 8220123456,paritosh.reddy@example.com,Ravikiran Infotech,Digital Marketing - Trainee,"1,80,000/-Per Annum",,2023-24,2017.0,90.0
+241.0,Surendra Singh,+91 8331234567,ankit.patel@example.com,Ravikiran Infotech,Digital Marketing - Trainee,"1,80,000/-Per Annum",,2023-24,2018.0,79.0
+242.0,Naresh Sharma,+91 8442345678,rishabh.joshi@example.com,Ravikiran Infotech,Business Analyst,"1,80,000/-Per Annum",,2023-24,2019.0,63.0
+243.0,Harish Yadav,+91 8553456789,anant.singh@example.com,Bhuvan Wheels Pvt. Ltd.,Sales Consultant,"1,56,000/-Per Annum",,2023-24,2020.0,72.0
+244.0,Arun Gupta,+91 8664567890,jeetendra.kumar@example.com,Bhuvan Wheels Pvt. Ltd.,Sales Consultant,"1,20,000/- Per Annum",,2023-24,2021.0,81.0
+245.0,Satish Verma,+91 8775678901,satyendra.reddy@example.com,Bhuvan Wheels Pvt. Ltd.,Sales Consultant,"1,20,000/- Per Annum",,2023-24,2022.0,70.0
+246.0,Abhinav Patel,+91 8886789012,gyanendra.gupta@example.com,Bhuvan Wheels Pvt. Ltd.,Sales Consultant,"1,20,000/- Annum",,2023-24,2023.0,82.0
+247.0,Ajit Reddy,+91 8997890123,shivendra.rao@example.com,Bhuvan Wheels Pvt. Ltd.,Sales Consultant,"1,20,000/- Per Annum",,2023-24,2024.0,88.0
+248.0,Kunal Sharma,+91 7008901234,aniruddha.singh@example.com,Soham Motors Pvt. Ltd.,Sales Consultant,"1,20,000/- Per Annum",,2023-24,2015.0,76.0
+249.0,Ajay Kumar,+91 7119012345,chintan.patel@example.com,Soham Motors Pvt. Ltd.,Sales Consultant,"1,20,000/- Per Annum",,2023-24,2016.0,87.0
+250.0,Mukesh Verma,+91 7220123456,biplab.yadav@example.com,EXCELR,QA Automation / Manual Tester(Selenium),"2,80,000/-  To 5,00,000/- Per Annum",,2023-24,2017.0,68.0
+251.0,Deepak Yadav,+91 7331234567,jagdish.gupta@example.com,EXCELR,QA Automation / Manual Tester(Selenium),"2,80,000/-  To 5,00,000/- Per Annum",,2023-24,2018.0,62.0
+252.0,Ramesh Nair,+91 7442345678,mandhir.reddy@example.com,EXCELR,QA Automation / Manual Tester(Selenium),"2,80,000/-  To 5,00,000/- Per Annum",,2023-24,2019.0,90.0
+253.0,Kiran Singh,+91 7553456789,vinayak.patel@example.com,EXCELR,QA Automation / Manual Tester(Selenium),"2,80,000/-  To 5,00,000/- Per Annum",,2023-24,2020.0,78.0
+254.0,Vinay Reddy,+91 7664567890,sumit.singh@example.com,EXCELR,QA Automation / Manual Tester(Selenium),"2,80,000/-  To 5,00,000/- Per Annum",,2023-24,2021.0,73.0
+255.0,Tarun Kumar,+91 7775678901,sanjay.gupta@example.com,TCS,Graduate Trainee,"1,90,926/- Per Annum",,2023-24,2022.0,80.0
+256.0,Vikram Mehta,+91 7886789012,akanksha.iyer@example.com,TCS,Graduate Trainee,"1,90,926/- Per Annum",,2023-24,2023.0,67.0
+257.0,Anil Reddy,+91 7997890123,sonu.patel@example.com,TCS,Graduate Trainee,"1,90,926/- Per Annum",,2023-24,2024.0,85.0
+258.0,Rishi Agarwal,+91 8008901234,sameer.soni@example.com,TCS,Graduate Trainee,"1,90,926/- Per Annum",,2023-24,2018.0,88.0
+259.0,Hitesh Patel,+91 8119012345,parimal.nair@example.com,TCS,Graduate Trainee,"1,90,926/- Per Annum",,2023-24,2019.0,83.0
+260.0,Manoj Yadav,+91 8220123456,jagan.kumar@example.com,TCS,Graduate Trainee,"1,90,926/- Per Annum",,2023-24,2020.0,70.0
+261.0,Narayan Sharma,+91 8331234567,prashant.agarwal@example.com,TCS,Graduate Trainee,"1,90,926/- Per Annum",,2023-24,2021.0,91.0
+262.0,Suresh Singh,+91 8442345678,vikas.reddy@example.com,TCS,Graduate Trainee,"1,90,926/- Per Annum",,2023-24,2022.0,75.0
+263.0,Sameer Reddy,+91 8553456789,ankur.sharma@example.com,TCS,Graduate Trainee,"2,80,010/- Per Annum",,2023-24,2023.0,66.0
+264.0,Deepak Kumar,+91 8664567890,suman.gupta@example.com,Accenture,Developer,"3,50,000/- Per Annum",,2023-24,2024.0,86.0
+265.0,Kamal Reddy,+91 8775678901,vijay.patel@example.com,TCS,Graduate Trainee,"1,90,926/- Per Annum",,2023-24,2019.0,72.0
+266.0,Aman Gupta,+91 8886789012,kunal.singh@example.com,TCS,Graduate Trainee,"1,90,926/- Per Annum",,2023-24,2020.0,88.0
+267.0,Subodh Singh,+91 8997890123,ram.iyer@example.com,TCS,Graduate Trainee,"1,90,926/- Per Annum",,2023-24,2021.0,80.0
+268.0,Pankaj Sharma,+91 7008901234,priyanshu.yadav@example.com,Deloitte,Associate Analyst,"3,80,000/- Per Annam",,2023-24,2022.0,77.0
+269.0,Ravi Verma,+91 7119012345,mukesh.joshi@example.com,Deloitte,Associate Analyst,"3,80,000/- Per Annam",,2023-24,2023.0,78.0
+270.0,Nitin Singh,+91 7220123456,ajay.reddy@example.com,Sudarshan Saur Pvt Ltd,Accounts and Finance Trainee,"1,44,000/ Per Annum",,2023-24,2024.0,74.0
+271.0,Anil Iyer,+91 7331234567,manikandan.patel@example.com,Sudarshan Saur Pvt Ltd,Accounts and Finance Trainee,"1,44,000/ Per Annum",,2023-24,2018.0,63.0
+272.0,Jaya Bansal,+91 7442345678,shivam.kumar@example.com,Sudarshan Saur Pvt Ltd,Digital Marketing Officer,"1,44,000/ Per Annum",,2023-24,2019.0,71.0
+273.0,Aakash Rao,+91 7553456789,raghav.soni@example.com,Sudarshan Saur Pvt Ltd,Digital Marketing Officer,"1,44,000/ Per Annum",,2023-24,2020.0,67.0
+274.0,Akanksha Gupta,+91 7664567890,omkar.gupta@example.com,Sudarshan Saur Pvt Ltd,Marketing Officer,"1,44,000/ Per Annum",,2023-24,2021.0,84.0
+275.0,Kavita Sharma,+91 7775678901,nikhil.reddy@example.com,Sudarshan Saur Pvt Ltd,Marketing Officer,"1,44,000/ Per Annum",,2023-24,2022.0,89.0
+276.0,Manisha Iyer,+91 7886789012,raghav.patel@example.com,Sudarshan Saur Pvt Ltd,Production Supervisor,"1,68,000/ Per Annum",,2023-24,2023.0,85.0
+277.0,Sheetal Singh,+91 7997890123,jatin.singh@example.com,Sudarshan Saur Pvt Ltd,Production Supervisor,"1,68,000/ Per Annum",,2023-24,2024.0,61.0
+278.0,Vinita Rao,+91 8008901234,varun.kumar@example.com,GenPect,Insurance,"2,50,000/- Per Annum",,2023-24,2017.0,79.0
+279.0,Neha Mehta,+91 8119012345,keshav.iyer@example.com,Moncrieff IT Solutions LLC,Jr. Developer,"3,50,000/-Per Annum",,2023-24,2018.0,82.0
+280.0,Sanika Agarwal,+91 8220123456,jeetendra.patel@example.com,Soham Motors Pvt. Ltd.,Sales Consultant,"1,20,000/-Per Annum",,2023-24,2019.0,90.0
+281.0,Nisha Patel,+91 8331234567,dinesh.sharma@example.com,Soham Motors Pvt. Ltd.,CRE,"1,20,000/-Per Annum",,2023-24,2020.0,72.0
+282.0,Nandita Reddy,+91 8442345678,mangesh.yadav@example.com,"USDC Projects India Pvt. Ltd., Bengaluru",Executive - Business Development,"3,91,989/- Per Annum",,2023-24,2021.0,73.0
+283.0,Rupal Kumar,+91 8553456789,amit.kapoor@example.com,TCS,Graduate Trainee,"1,90,926/- Per Annum",,2023-24,2022.0,76.0
+284.0,Amrita Gupta,+91 8664567890,shivendra.gupta@example.com,Accenture,Developer,"3,50,000/- Per Annum",,2023-24,2023.0,88.0
+285.0,Suchita Yadav,+91 8775678901,ramesh.nair@example.com,D&D Adhesives Technologies Pvt,Business Developer,"1,44,000/ Per Annum",,2023-24,2024.0,66.0
+,,,,,,,,,,
